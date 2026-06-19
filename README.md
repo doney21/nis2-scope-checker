@@ -2,7 +2,7 @@
 
 A step-by-step tool to determine whether your organisation is an **Essential Entity**, **Important Entity**, or out of scope under the EU **NIS2 Directive (2022/2555)**.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nis2-scope-checker.streamlit.app)
+[![Streamlit](https://nis2-scope-checker-r79catnbdyuo8uqsvgfgrs.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
